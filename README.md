@@ -19,6 +19,7 @@ No code has been written yet.
 ## Why this matters
 Running Minecraft in WASM could allow:
 - No installation required
+- Access on devices like Chromebooks
 - Cross-platform support
 - Safer sandboxed execution
 - New possibilities for modding and experimentation
