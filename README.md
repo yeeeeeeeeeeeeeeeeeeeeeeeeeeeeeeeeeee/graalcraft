@@ -1,12 +1,30 @@
 # Graalcraft
-Modern versions of Minecraft running in WASM using GraalVM!
+Modern Minecraft, recompiled for the web using GraalVM and WebAssembly.
 
-# What we will have
-1. Support for many different Minecraft versions
-2. Easily modifiable source code
-3. Prebuilt WASM files
-4. (Maybe) Mod Support through Forge
+## What is this?
+Graalcraft is a planned project aiming to run modern versions of Minecraft directly in the browser using WebAssembly (WASM).
 
-# How to help
-1. Make commits to the repository!
-2. Spread the word!
+Instead of running Java traditionally, the idea is to use GraalVM’s native image capabilities to compile Minecraft into a format that can execute on the web.
+
+## Project Status
+This project is currently in the planning phase.
+No code has been written yet.
+
+## Goals
+- Support multiple Minecraft versions
+- Compile Java bytecode into WASM via GraalVM
+- Provide prebuilt WASM builds
+- Keep the codebase easy to modify and experiment with
+
+## Why this matters
+Running Minecraft in WASM could allow:
+- No installation required
+- Cross-platform support
+- Safer sandboxed execution
+- New possibilities for modding and experimentation
+
+## Contributing
+If you are interested in helping once development begins:
+- Follow the project
+- Share ideas or suggestions
+- Contribute when the repository is ready
