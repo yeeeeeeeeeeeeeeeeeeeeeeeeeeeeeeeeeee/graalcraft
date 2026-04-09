@@ -6,3 +6,6 @@ Support for many different Minecraft versions
 Easily modifiable source code
 Prebuilt WASM files
 (Maybe) Mod Support through Forge
+
+# How to help
+Make commits to the repository!
