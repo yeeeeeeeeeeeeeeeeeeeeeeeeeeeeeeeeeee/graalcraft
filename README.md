@@ -2,9 +2,9 @@
 Modern versions of Minecraft running in WASM using GraalVM!
 
 # What we will have
-Support for many different Minecraft versions
-Easily modifiable source code
-Prebuilt WASM files
+1. Support for many different Minecraft versions/n
+2. Easily modifiable source code/n
+3. Prebuilt WASM files/n
 (Maybe) Mod Support through Forge
 
 # How to help
